@@ -1,0 +1,105 @@
+html,body{
+    height: 100%;
+}
+*{
+    margin: 0;
+}
+
+/* nav links */
+.navlinks{
+    margin-left: 25%;
+    font-size: 1.4rem;
+}
+li :hover{
+    background-color: rgb(184, 26, 26);
+}
+
+/* home heading */
+.homeheading{
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20%;
+    margin-left: 3%; 
+    margin-right: 7%;
+    color: lightsalmon;
+}
+.homheadingp{
+    font-size: 1.2rem;
+    margin: 0 15%;
+}
+
+.homebutt{
+    margin-left: 40%;
+    margin-right: 35%;
+}
+
+.iconsposition{
+    margin-left: 40%;
+}
+
+/* about */
+.imageslide{
+    width: 100%;
+    height: 75vh;
+}
+.reportproblem{
+    padding: 3% 15%;   
+}
+/* problem */
+.problemp{
+    margin: 5% 10%;
+    font-size: 1.2rem;
+ padding-bottom: 5%;
+}
+
+.problemh1{
+    color: black;
+    margin-top: 15%;
+    margin-top: 20%;
+}
+
+.solutionlist{
+    font-size: 1.2rem;
+    list-style-type: none;
+    padding-bottom: 5%;
+    margin: 5% 10% 5% 5%;
+}
+/* volunteer page */
+.formgrp{
+margin-top: 5%;
+}
+
+/* contactpage */
+.contactsect{
+    margin-top: 20%;
+}
+.contactsectcard{
+    margin-left: 5%;
+    
+}
+.contactusbut{
+margin-left: 20%;
+}
+/* footer colour */
+.footer{
+    background-color:rgb(238, 237, 237); 
+    padding-left: 5%;
+}
+.footericons{
+    margin-left: 40%;
+}
+/* impact page */
+.impactheading{
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20%;
+    margin-left: 10%; 
+    margin-right: 7%;
+    color: lightsalmon;
+}
+.iconscont{
+    padding: 0 5%;
+}
+.abouttarget{
+    margin-left: 5%;
+}
